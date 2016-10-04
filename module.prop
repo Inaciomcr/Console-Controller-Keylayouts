@@ -1,9 +1,9 @@
-id=template
-name=Template Module
+id=xboxkeylayouts
+name=Xbox Keylayouts
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
-support=http://forum.xda-developers.com/showthread.php?t=3432382
-donate=http://topjohnwu.github.io/donate
+author=HylianGaming (Nbay64 on XDA)
+description=Adds 3 keylayout files for Xbox 360, Xbox One and Xbox One S controller use on Android devices
+support=
+donate=
 cacheModule=false
