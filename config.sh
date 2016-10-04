@@ -105,4 +105,7 @@ set_permissions() {
   # set_perm  $MODPATH/system/bin/app_process32   0       2000    0755         u:object_r:zygote_exec:s0
   # set_perm  $MODPATH/system/bin/dex2oat         0       2000    0755         u:object_r:dex2oat_exec:s0
   # set_perm  $MODPATH/system/lib/libart.so       0       0       0644
+  set_perm  $MODPATH/system/usr/keylayout/Vendor_045e_Product_02d1.kl       0       0       0644
+  set_perm  $MODPATH/system/usr/keylayout/Vendor_045e_Product_02e0.kl       0       0       0644
+  set_perm  $MODPATH/system/usr/keylayout/Vendor_045e_Product_0291.kl       0       0       0644
 }
